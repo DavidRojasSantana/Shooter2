@@ -1,0 +1,4 @@
+Hola, para el que pueda leer esto, mi nombre es david y dejo este proyecto de un juego de disparos en realidad mixta para las HoloLens1, fue desarrollado con unity versión 2021, y visual estudio profesional 2019, se debe descargar también el kit de de herramientas para realidad mixta y tener por lo menos lo que me ocupo de espacio libre 50 gb de espacio libre tanto para la instalación de los programas como la creación de este juego , se recomienda un buen equipo  ya que realizo en un Intel Core i5 de 10th  con una RAM de 24gb  a 1.0 GHz y fue bastante lento para correrlo, alguna pregunta si necesitan enviar un correo a davidrojas861@gmail.com
+
+
+https://drive.google.com/drive/folders/1U7cNqQFR0yi76PXAy0owBXcztY5IPl5R?usp=sharing
